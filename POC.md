@@ -14,15 +14,18 @@ Spark is installed as part of the IBM open platform package (this document will 
 The python package used here is 2.7.5. We will be working within jupyter notebook, a standard python development environment. 
 
 We will use a virtual environment to maintain version control of our packages. Install with:
-```$ pip install virtualenv
+```
+$ pip install virtualenv
 ```
 
 Once virtual env is installed, you can create a virtual env called “test-env” with:
-```$ virtualenv test-env 
+```
+$ virtualenv test-env 
 ```
 
 This will create a new directory in your current working directory. You can activate the environment with:
-```$ . bin/activate
+```
+$ . bin/activate
 ```
 
 Once activated, you can install ipython and then jupyter (the notebook environment with:
@@ -32,13 +35,15 @@ $ pip install jupyter
 ```
 
 We have to create a settings profile with:
-```$ jupyter notebook --generate-config
+```
+$ jupyter notebook --generate-config
 ```
 
 Go into the directory created, and edit the file ipython_notebook_config.py. Change the c.NotebookApp.ip setting from ‘localhost’ to ‘127.0.0.1’, and uncomment the line. 
 
 Now run jupyter notebook with pyspark environment:
-```$ PYSPARK_DRIVER_PYTHON=jupyter PYSPARK_DRIVER_PYTHON_OPTS=”notebook” spark-2.1.0-bin-hadoop2.7/bin/pyspark
+```
+$ PYSPARK_DRIVER_PYTHON=jupyter PYSPARK_DRIVER_PYTHON_OPTS=”notebook” spark-2.1.0-bin-hadoop2.7/bin/pyspark
 ```
 
 A browser window will open with cells awaiting python code to be inputted.
@@ -58,7 +63,8 @@ grouped.collect()
 
 Now if we run grouped.toDebugString(), we can see the chain of interactions used to produce the most current version of our RDD. This provides fault tolerance by providing the ability to retrace steps in the event of failure by any of the executors.  
 
-```grouped.toDebugString()
+```
+grouped.toDebugString()
 ```
 
 There are of course many more operations available in PySpark and only a few properties were demonstrated here.
@@ -81,7 +87,8 @@ Configuring Hive for XML file processing:
 These steps are performed with installation of Ambari 4.1.0.0. Hive is installed as part of this package. The XML SerDe .jar file is located at https://github.com/dvasilen/Hive-XML-SerDe/wiki/XML-data-sources
 
 Download the .jar file and extract to /lib/. Once downloaded, start a hive session by changing directory to the hive initialization script, execute it, and engage the .jar plugin (replace the x’s with appropriate version number):
-```$ cd /usr/iop/current/hive-client/bin
+```
+$ cd /usr/iop/current/hive-client/bin
 $ hive
 hive> hive --auxpath /lib/hivexmlserde-x.x.x.x.jar
 ```
@@ -89,7 +96,8 @@ hive> hive --auxpath /lib/hivexmlserde-x.x.x.x.jar
 Once executed, hive is ready to serialize and deserialize XML files. We can use a sample XML file that contains ebay transaction data downloaded here (http://www.cs.washington.edu/research/xmldatasets/data/auctions/ebay.xml.gz)
 
 Then we may create a table and process the data:
-```CREATE TABLE ebay_listing(seller_name STRING,
+```
+CREATE TABLE ebay_listing(seller_name STRING,
 seller_rating BIGINT, bidder_name STRING,
 location STRING, bid_history map<string,string>,
 item_info map<string,string>)
@@ -112,12 +120,14 @@ TBLPROPERTIES (
 ```
 
 Once the table is created, load the xml data with these commands (replacing /path/ with the path to your data folder: 
-```LOAD DATA LOCAL INPATH '/path/ebay.xml'
+```
+LOAD DATA LOCAL INPATH '/path/ebay.xml'
 OVERWRITE INTO TABLE ebay_listing;
 ```
 
 Querying is then simple and similar to SQL:
-```SELECT seller_name, bidder_name, location, bid_history["highest_bid_amount"], item_info["cpu"]
+```
+SELECT seller_name, bidder_name, location, bid_history["highest_bid_amount"], item_info["cpu"]
 FROM ebay_listing LIMIT 1;
 ```
 
@@ -126,7 +136,8 @@ Hadoop is the de facto tool used for big data storage and retrieval. One shortco
 
 To address this issue, data must be secured at “rest”, meaning that this access is not allowed. The security component to configure is called Key Management Service (KMS), which stores encryption keys. To set up KMS, run the following commands: 
 
-```mkdir -p /usr/TDE_demo
+```
+mkdir -p /usr/TDE_demo
 $ cp /usr/iop/current/hadoop/mapreduce.tar.gz /usr/TDE_demo/
 $ export TDE_ROOT=/usr/TDE_demo
 $ cd /usr/TDE_demo
@@ -144,13 +155,15 @@ dfs.encryption.key.provider.uri = kms://http@ mymachine.domain.com:16000/kms
 Restart HDFS, MapReduce2, and YARN.
 
 Create an encryption key named “key_demo” with: 
-```$ su hdfs
+```
+$ su hdfs
 $ hadoop key create key_demo -size 256
 $ hadoop key list -metadata
 ```
 
 Create an encryption zone
-```$ hdfs dfs -mkdir /encryption_zone
+```
+$ hdfs dfs -mkdir /encryption_zone
 $ hdfs crypto -createZone -keyName key_demo -path /encryption_zone
 $ hdfs crypto -listZones
 ```
