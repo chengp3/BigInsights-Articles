@@ -1,2 +1,0 @@
-# hive
-Smoke test hive
