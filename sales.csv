@@ -1,0 +1,999 @@
+Transaction_date,Price,Name,City
+1/2/09 6:17,1200,carolina,Basildon
+1/2/09 4:53,1200,Betina,Parkville                   
+1/2/09 13:08,1200,Federica e Andrea,Astoria                     
+1/3/09 14:44,1200,Gouya,Echuca
+1/4/09 12:56,3600,Gerd W ,Cahaba Heights              
+1/4/09 13:19,1200,LAURENCE,Mickleton                   
+1/4/09 20:11,1200,Fleur,Peoria                      
+1/2/09 20:09,1200,adam,Martin                      
+1/4/09 13:17,1200,Renee Elisabeth,Tel Aviv
+1/4/09 14:11,1200,Aidan,Chatou
+1/5/09 2:42,1200,Stacy,New York                    
+1/5/09 5:39,1200,Heidi,Eindhoven
+1/2/09 9:16,1200,Sean ,Shavano Park                
+1/5/09 10:08,1200,Georgia,Eagle                       
+1/2/09 14:18,1200,Richard,Riverside                   
+1/4/09 1:05,1200,Leanne,Julianstown
+1/5/09 11:37,1200,Janet,Ottawa
+1/6/09 5:02,1200,barbara,Hyderabad
+1/6/09 7:45,3600,Sabine,London
+1/2/09 7:35,1200,Hani,Salt Lake City              
+1/6/09 12:56,1200,Jeremy,Manchester
+1/1/09 11:05,1200,Janis,Ballynora
+1/5/09 4:10,1200,Nicola,Roodepoort
+1/6/09 7:18,1200,asuman,Chula Vista                 
+1/2/09 1:11,1200,Lena,Kuopio
+1/1/09 2:24,1200,Lisa,Sugar Land                  
+1/7/09 8:08,1200,Bryan Kerrene,New York                    
+1/2/09 2:57,1200,chris,London
+1/1/09 20:21,1200,Maxine,Morton                      
+1/8/09 0:42,1200,Family,Los Gatos                   
+1/8/09 3:56,1200,Katherine,New York                    
+1/8/09 3:16,1200,Linda,Miami                       
+1/8/09 1:59,1200,SYLVIA,Vesenaz
+1/3/09 9:03,1200,Sheila,Brooklyn                    
+1/5/09 13:17,1200,Stephanie,Badhoevedorp
+1/6/09 7:46,1200,Kelly,Reston                      
+1/5/09 20:00,3600,James,Burpengary
+1/8/09 16:24,1200,jennifer,Phoenix                     
+1/9/09 6:39,1200,Anneli,Houston                     
+1/6/09 22:19,3600,Ritz,Pittsfield                  
+1/6/09 23:00,3600,Sylvia,Pittsfield                  
+1/7/09 7:44,1200,Marie,Ball Ground                 
+1/3/09 13:24,1200,Mehmet Fatih,Helsingor
+1/7/09 15:12,3600,Anabela,Flossmoor                   
+1/7/09 20:15,1200,Nicole,Houston                     
+1/3/09 10:11,3600,Christiane ,Delray Beach                
+1/9/09 15:58,1200,Sari,Newbury
+1/3/09 13:11,1200,simone,Kobenhavn
+1/10/09 12:57,1200,Vanessa,Sandy Springs               
+1/10/09 14:43,1200,Anupam,Kinsaley
+1/10/09 12:05,1200,Karina,Fort Lauderdale             
+1/6/09 1:20,1200,Frank,Melbourne
+1/10/09 14:56,1200,Angela,Ankeny                      
+1/7/09 10:01,1200,Darren,Pittsboro                   
+1/1/09 1:26,1200,Nikki,New Rochelle                
+1/11/09 2:04,1200,chris,Gold Coast
+1/11/09 14:17,1200,Stephanie,Brussels
+1/10/09 21:38,1200,Anushka,Maple Ridge District Municipality
+1/7/09 6:18,1200,June ,Beachwood                   
+1/4/09 8:39,3600,Baybars,Prince Albert
+1/5/09 0:31,1200,Bonnie,Saltsjobaden
+1/2/09 6:07,1200,Cindy ,Kemble
+1/12/09 3:25,1200,chrissy,W Lebanon                   
+1/4/09 13:56,1200,Tamar,Headley
+1/7/09 0:12,3600,Deirdre,Lausanne
+1/12/09 5:18,1200,Bernadett,Southampton
+1/8/09 15:16,1200,Dottie,Woodsboro                   
+1/11/09 11:33,1200,Stefan,Stavanger
+1/7/09 20:22,1200,Gina,Red Deer
+1/2/09 22:00,1200,Lynne,Memphis                     
+1/5/09 13:52,1200,Tammy,Morges
+1/8/09 20:32,1200,Kim,Calgary
+1/8/09 13:34,1200,Bruce,Belleville
+1/11/09 13:08,1200,Rosa Maria,Cincinnati                  
+1/12/09 19:04,1200,Lydia,Comox
+1/12/09 13:41,1200,Eric,Gasperich
+1/11/09 10:38,1200,AnaPaula,Helens Bay
+1/13/09 5:57,1200,Robin,Milan
+1/13/09 6:13,1200,Gitte,Staten Island               
+1/8/09 13:14,1200,Dr. Claudia,Oslo
+1/2/09 11:41,1200,Crystal,Farmington
+1/7/09 19:50,1200,Delphine,Santa Monica                
+1/1/09 20:28,1200,nathalie,Calgary
+1/3/09 15:22,1200,Lindi,Vancouver
+1/12/09 3:03,3600,Valda,Irvine                      
+1/5/09 8:58,3600,Marcia,Telgte
+1/10/09 14:03,1200,Kevin,Cheltenham
+1/13/09 11:26,1200,Clare,Keller                      
+1/2/09 12:18,1200,Alice,Nakskov
+1/14/09 4:54,1200,ZENA,Honolulu                    
+1/6/09 17:15,1200,Andrea,Bubuieci
+1/3/09 13:56,1200,Rennae,Amelia Island               
+1/4/09 7:54,1200,Gerhard,Alliston
+1/12/09 7:28,1200,Megan,La Alberca
+1/6/09 15:15,1200,Danielle,Rathgar
+1/13/09 23:56,1200,Tod,Coral Gables                
+1/14/09 19:32,1200,Janaina,Miami                       
+1/6/09 21:13,1200,Kofi,Vancouver
+1/14/09 11:19,1200,Jennifer,Jumeira
+1/13/09 19:39,1200,Jolene ,Englewood                   
+1/8/09 7:26,1200,anne,Bournemouth
+1/15/09 2:40,1200,Alexis,Genoa                       
+1/12/09 6:40,1200,Dez,Al 'Adliyah
+1/15/09 3:43,1200,Stephanie,Rouen
+1/5/09 15:39,1200,Melissa ,Parkland                    
+1/10/09 5:21,1200,CLARE,San Francisco               
+1/15/09 4:12,1200,catherine,Keller                      
+1/12/09 11:48,1200,Veronique ,Tsawwassen
+1/6/09 10:48,1200,Bruce and Camille,Clinton                     
+1/14/09 9:10,1200,Ellen,Owensboro                   
+1/14/09 22:44,1200,Amy,Lakewood Village            
+1/6/09 7:23,1200,Anna,Okotoks
+1/1/09 5:04,1200,Regina,Glimmen
+1/15/09 11:56,1200,Heidi,Calgary
+1/15/09 11:58,1200,Jessica,Kanata
+1/12/09 9:43,1200,Petra,Bergen
+1/15/09 12:33,1200,Brian,College Park                
+1/14/09 11:35,1200,Kenny,Kailua Kona                 
+1/14/09 15:40,1200,ayse,Redondo Beach               
+1/3/09 11:08,1200,Maria and Timothy,Fountain Hls                
+1/12/09 1:37,1200,IMAN,Brisbane
+1/16/09 7:21,2100,Gerald,Mahopac                     
+1/15/09 12:54,1200,Annelies,Ile-Perrot
+1/7/09 7:19,1200,Jocelyn,Bruxelles
+1/3/09 9:56,1200,Kara,Chicago                     
+1/16/09 17:41,1200,Orsi,Rayford                     
+1/5/09 5:33,1200,Ben,Escondido                   
+1/2/09 0:50,1200,Sam,Tesvikiye
+1/13/09 1:51,1200,Filip and Teresa,Centurion
+1/15/09 10:24,1200,Grace ,York
+1/11/09 8:59,1200,Chelsey ,Ashburn                     
+1/15/09 15:56,1200,Charis,Los Angeles                 
+1/1/09 12:19,1200,Marlene,Edgewood                    
+1/6/09 14:03,1200,Fie,New York                    
+1/9/09 15:32,1200,Nicole ,Basingstoke
+1/17/09 12:59,1200,Linda,Den Haag
+1/12/09 12:37,1200,Janet,Marietta                    
+1/4/09 7:43,1200,Jamie,Houston                     
+1/17/09 16:22,1200,Chad,West Orange                 
+1/1/09 3:51,1200,sunny,Amsterdam
+1/18/09 5:27,1200,Anna,Downey                      
+1/18/09 5:15,1200,Roger,Urlingford
+1/1/09 1:51,1200,Si,Holte
+1/18/09 6:30,1200,Sherri,Freienbach
+1/11/09 10:51,1200,Katherine,Hofheim am Taunus
+1/4/09 17:02,1200,Clare,Lafayette                   
+1/17/09 1:23,1200,Campbell,Mushrif
+1/18/09 2:16,1200,Ruth,Nashville                   
+1/18/09 11:34,3600,Cheryl,New Malden
+1/18/09 4:38,1200,Doug,Bishop Auckland
+1/18/09 13:26,7500,Julianne,Navan
+1/18/09 11:53,1200,Shailesh,Joppa
+1/18/09 12:04,1200,Conrad,Joppa
+1/13/09 19:54,1200,Alison,Hampton                     
+1/5/09 21:06,1200,Tracy,Louisville                  
+1/14/09 6:32,1200,Kate,Broadlands                  
+1/4/09 23:48,1200,Sarka,Yellowknife
+1/18/09 16:32,3600,Therese,Los Angeles                 
+1/18/09 17:04,3600,Abdul-L,New York                    
+1/18/09 17:20,3600,heidi,Saint Paul                  
+1/18/09 17:39,3600,jiyoung,New York                    
+1/11/09 11:20,1200,Klara,Spring Lake Park            
+1/13/09 20:59,1200,Andrew,Winnipeg
+1/12/09 16:50,1200,Vicki and Bill,Seattle                     
+1/12/09 15:12,1200,David,Deptford                    
+1/6/09 12:27,1200,Antonella,Amsterdam
+1/9/09 18:52,1200,David,Alpharetta                  
+1/18/09 23:17,1200,Greg,Washington                  
+1/7/09 8:21,1200,Jannik ,Holmenkollen
+1/3/09 9:54,1200,Sylvia,Zekeriyakoy
+1/5/09 19:37,1200,Bernadette,Washington                  
+1/4/09 12:49,1200,Denise,Montreal
+1/8/09 11:55,3600,Caren,Braunschweig
+1/14/09 18:21,1200,luciana,Athens                      
+1/11/09 19:01,1200,Maja,Hoschton                    
+1/14/09 5:20,3600,Kristen,Binningen
+1/15/09 8:07,1200,Kirstie,Royal Oak                   
+1/15/09 8:10,1200,Scott ,Royal Oak                   
+1/2/09 17:45,1200,Jammie,Belmont                     
+1/19/09 16:10,1200,Frank,Old Greenwich               
+1/19/09 16:55,1200,scott,Coconut Grove               
+1/10/09 17:41,1200,Jiri,Vienna                      
+1/18/09 13:49,3600,Bev,San Ramon                   
+1/15/09 5:47,1200,Dave and Amy,Norfolk                     
+1/19/09 23:06,1200,Rebecca,Norfolk                     
+1/19/09 11:12,1200,Melissa,Aberdeen
+1/4/09 1:38,1200,jeremy,Charlestown
+1/20/09 3:11,1200,Randy,Wigan
+1/3/09 10:52,1200,Djeiny,Rockville                   
+1/20/09 5:24,7500,Amanda,Shreveport                  
+1/20/09 6:03,1200,Andrea ,Shreveport                  
+1/10/09 11:37,1200,Joanna,Little Silver               
+1/20/09 5:50,1200,Jessica,Abbey Town
+1/19/09 16:32,1200,alison,Mid City West               
+1/18/09 10:42,1200,malin,Atlanta
+1/7/09 6:11,3600,Tiffany ,Paris
+1/3/09 8:29,1200,Genevieve,Milton Keynes
+1/1/09 2:09,1200,Saraya,Dresden
+1/20/09 12:34,1200,Anastasia,NYC                         
+1/20/09 3:51,1200,Elizabeth,The Grange
+1/15/09 11:26,1200,Nicole,Brookline                   
+1/5/09 16:55,1200,Jeffrey,Montreal-Nord
+1/12/09 19:47,1200,Blanca Gabriela ,Irving                      
+1/4/09 19:20,1200,Elisa,Ottawa Hills                
+1/10/09 8:33,3600,Patricia ,Portola Valley              
+1/9/09 14:51,1200,Bob,Sydney
+1/16/09 2:41,7500,Kristyn,Kearns                      
+1/16/09 18:36,1200,Elizabeth,Wollongong
+1/20/09 8:10,1200,Cathy,Brooklyn                    
+1/6/09 12:45,3600,Kaylee,Penngrove                   
+1/10/09 8:13,1200,suzanne,Lemont                      
+1/7/09 14:15,1200,Cassandra,San Carlos                  
+1/8/09 15:27,1200,Jennifer,Chicago                     
+1/21/09 11:36,1200,nicole,Oslo
+1/21/09 14:06,1200,Sean,Wantagh
+1/2/09 2:28,1200,Morgan,Coomera
+1/19/09 19:07,1200,Harriet,Fort Oglethorpe             
+1/18/09 6:27,1200,Janine,Corbin City                 
+1/20/09 11:58,1200,Debora,Lakeside                    
+1/20/09 16:32,1200,Vishpala,Margate                     
+1/1/09 7:09,1200,Emer,South Palm Beach            
+1/21/09 14:55,1200,john,New York                    
+1/7/09 22:29,1200,lailani,Anchorage                   
+1/11/09 22:22,3600,STEPHANIE,Mona Vale
+1/21/09 14:25,1200,Tricia,Castricum
+1/18/09 16:50,1200,Celina,North Brunswick             
+1/21/09 12:08,3600,Rosemary,Jacksonville                
+1/22/09 6:41,1200,Patrick,Baytown                     
+1/12/09 9:23,1200,Jacob,Winter Haven                
+1/22/09 8:23,1200,elisabeth,Gonzaga Univ                
+1/3/09 6:41,3600,ayelet,Malmo
+1/1/09 12:20,3600,seemab,San Pawl tat-Targa
+1/4/09 22:00,3600,Lucien,Wiesbaden
+1/21/09 2:15,1200,Kevin ,London
+1/1/09 14:22,1200,Liban,Stavanger
+1/16/09 1:07,3600,Lesley,Cork
+1/20/09 8:51,1200,Marie,Winchester                  
+1/4/09 9:02,1200,Charlene,Calgary
+1/6/09 8:34,1200,Orit,Dallas                      
+1/8/09 4:16,1200,Alan,Malahide
+1/23/09 3:33,3600,Anja Langer,Saint Paul                  
+1/6/09 4:18,1200,Lina,Edinburgh
+1/23/09 3:30,1200,Larry,Naarden
+1/10/09 4:04,1200,Jessica,Oldenburg
+1/5/09 2:57,7500,Marion,Rennes
+1/21/09 14:15,1200,Eric,Ely                         
+1/21/09 6:39,1200,Miriane,Norfolk                     
+1/19/09 8:14,1200,Jeff,Houston                     
+1/23/09 8:00,1200,christina,Chepel
+1/22/09 23:35,1200,Shannon,Buffalo Grove               
+1/14/09 3:09,1200,Angela,Newburgh
+1/16/09 1:51,1200,Angela,Vienna
+1/1/09 6:29,1200,Elaine,Vicenza
+1/21/09 7:59,1200,Helen,Mechanics Grove             
+1/23/09 7:37,3600,Fatisha,Miami                       
+1/18/09 14:39,1200,Nina,Silver Spring               
+1/24/09 9:01,3600,Barbara,Kirriemuir
+1/15/09 1:41,1200,Karen,Roquefort
+1/17/09 7:23,1200,Georgina,Portland                    
+1/23/09 11:37,1200,Kellie,Staten Island               
+1/19/09 15:02,1200,Terry,San Antonio                 
+1/11/09 7:10,3600,LAURIE,Guildford
+1/10/09 3:28,1200,frauke,Horten
+1/7/09 19:03,3600,Cindy,Englewood                   
+1/17/09 14:02,1200,Simone,San Antonio                 
+1/25/09 0:09,1200,Hilde ,Princeville                 
+1/9/09 14:27,1200,Leah,Castleknock
+1/9/09 14:32,1200,Laine,Castleknock
+1/11/09 15:59,1200,kirsten,Bishops Stortford
+1/6/09 14:38,3600,Elizabeth,Den Haag
+1/6/09 9:52,1200,Anna,Lafayette                   
+1/1/09 9:21,1200,Babs,Blackpool
+1/3/09 7:58,1200,Gerlinde,Hellerup
+1/11/09 11:36,1200,Hollyn,London
+1/13/09 14:53,1200,leiser,N Java                      
+1/1/09 10:06,3600,Irene,Munich
+1/16/09 5:07,1200,Lisa,Brulon
+1/6/09 16:37,1200,Ann,Austin                      
+1/18/09 17:21,1200,Nichol Jane,Midland Park                
+1/13/09 15:18,1200,Beatriz,Centerport                  
+1/24/09 8:21,1200,corina,Neustift am Walde
+1/24/09 8:25,1200,manon,Neustift am Walde
+1/18/09 13:06,1200,Isabelle,Shorewood                   
+1/22/09 18:44,1200,Lynne,Southlake                   
+1/8/09 8:58,1200,Doug,Huntington                  
+1/4/09 9:54,1200,AMY,The Woodlands               
+1/13/09 20:22,1200,Kim,Kelowna
+1/9/09 10:22,1200,HELIDA,White House                 
+1/5/09 12:28,1200,Cameron,Rungsted
+1/26/09 3:43,1200,Wendy,Lake Mahopac                
+1/26/09 3:49,3600,Jane,Biot
+1/11/09 13:16,3600,shelby,Plantation                  
+1/22/09 15:32,1200,Tara,Killiney
+1/9/09 14:25,1200,James,Guer
+1/21/09 11:28,800,Heloise ,Arlington                   
+1/1/09 14:19,1200,Gabriel,Three Hills
+1/26/09 4:30,1200,Jodie ,Great Falls
+1/7/09 4:45,1200,Jeremy,London
+1/11/09 12:12,1200,Helga,Clontarf
+1/26/09 10:24,1200,Eleanor,Vancouver
+1/26/09 8:58,1200,Miss,London
+1/7/09 17:51,1200,Marie,Dickerson                   
+1/18/09 20:16,1200,Lisa,Princeton                   
+1/13/09 9:51,1200,Priska,Calgary
+1/24/09 18:43,1200,Katrine,North Tustin                
+1/5/09 0:46,1200,Lisa,Gurgaon
+1/9/09 1:12,1200,Sabrina,Rambouillet
+1/26/09 6:25,1200,prof,Gladwyne                    
+1/21/09 16:57,1200,KeithMichelle,Houston                     
+1/5/09 5:33,1200,Kim,London
+1/27/09 5:10,1200,anissa,Slough
+1/7/09 8:00,1200,john,Glan-Munchweiler
+1/20/09 7:08,3600,Miye,Downingtown                 
+1/27/09 2:26,1200,Heidi,MT Pleasant                 
+1/5/09 6:14,1200,T,Veigy-Foncenex
+1/13/09 8:11,3600,Daniele,Katy                        
+1/10/09 9:18,1200,luisa,Gorey
+1/8/09 18:52,1200,Nadine,Belgrade                    
+1/12/09 10:06,1200,Tina,Calgary
+1/1/09 19:25,1200,Damali,Toronto
+1/27/09 15:28,1200,Katherine,Corrales                    
+1/2/09 18:43,1200,Kathryn,Cork
+1/8/09 18:41,1200,Veronique,Tenafly                     
+1/4/09 18:34,1200,Erica,Leesburg                    
+1/25/09 8:32,1200,L,Alcona
+1/23/09 22:19,1200,Diana,Kuala Lumpur
+1/7/09 10:03,1200,Emma,Sydney
+1/18/09 3:46,1200,Marina,Nerang
+1/28/09 0:40,1200,Natalie ,Bryceville                  
+1/2/09 15:18,1200,Brenda,Saffron Walden
+1/18/09 13:59,1200,Nita,Sutton
+1/16/09 9:54,1200,Marian,Durban
+1/28/09 7:07,1200,Kevin,Berkeswell
+1/28/09 7:31,1200,cari,Dryden                      
+1/18/09 12:32,1200,Cassandra,Santry
+1/13/09 14:05,1200,Christof and Heidi,Barcelona
+1/28/09 7:49,1200,Ina,Fayetteville                
+1/28/09 3:07,1200,Lisa,Anse Comeau
+1/12/09 15:16,1200,Camille and Carmen,Thorlakshofn
+1/6/09 11:17,3600,Trina,Overland                    
+1/23/09 9:49,1200,Ginger,King City
+1/24/09 4:01,1200,breon,Leighton Buzzard
+1/25/09 18:21,1200,Marion,Umea
+1/15/09 10:51,1200,Pia ,Sola
+1/2/09 5:14,1200,Dr. Donald,Stockton-on-Tees
+1/9/09 10:35,3600,Jenna and Paul,Senatobia                   
+1/4/09 10:16,1200,Rebecca,Berlin
+1/2/09 12:16,1200,Monique,Waldorf                     
+1/28/09 12:31,1200,lilia ,Brooklyn                    
+1/14/09 12:07,1200,Lainey,Lakeville                   
+1/16/09 7:20,3600,Jag,Saint-Cergues
+1/6/09 9:55,1200,Charlene ,Vancouver
+1/7/09 12:55,1200,Fiona,Stamford                    
+1/19/09 12:14,1200,burt,Rathfarnham
+1/13/09 15:19,3600,Maggie,Paris
+1/18/09 8:56,1200,Stanford,Howell                      
+1/4/09 17:54,1200,ruth,Encinitas                   
+1/5/09 13:46,1200,Courtney,Atchison                    
+1/5/09 10:49,3600,Courtney,Mililani                    
+1/12/09 18:24,1200,Anthony,Victor                      
+1/18/09 4:01,1200,Eleanor,Fairbanks                   
+1/16/09 10:58,1200,GAIA,Soro
+1/13/09 8:20,1200,Zane,Warlingham
+1/12/09 1:42,1200,Beate,Hamburg
+1/28/09 13:07,1200,BALA,Accokeek                    
+1/29/09 5:43,1200,Mrs,Sunnyvale                   
+1/29/09 5:30,1200,Vanessa,Ithaca                      
+1/13/09 18:08,1200,Amanda,Houston                     
+1/9/09 15:24,1200,alex ,Farmingtn Hls               
+1/23/09 15:33,1200,T,Brooklyn                    
+1/29/09 12:28,1200,Alva and Martin,Great Falls                 
+1/13/09 11:31,1200,Anett,Gosport
+1/29/09 10:09,3600,Jacqui,Scottsdale                  
+1/29/09 15:08,1200,KERRY,Sunnyvale                   
+1/4/09 5:12,1200,DeeDee,Songnae-dong
+1/22/09 22:16,3600,leanne,Clyde Hill                  
+1/5/09 19:26,1200,katie,Ruschlikon
+1/11/09 12:22,1200,Marina,Minneapolis                 
+1/2/09 9:31,1200,camilla,Chicago                     
+1/5/09 11:21,1200,pirunkit,Petworth
+1/17/09 9:49,1200,Kathrin,Abu Dhabi
+1/28/09 1:38,1200,Kate,Stockholm
+1/19/09 10:32,1200,Maie,Queen Creek                 
+1/26/09 12:05,1250,verena,Queen Creek                 
+1/7/09 18:53,1200,Marie-Christine,Durham                      
+1/26/09 11:38,1200,Gabriella,Austin                      
+1/8/09 13:19,1200,valerie et nicolas,Glenn Dale                  
+1/11/09 14:56,1200,Nicole,Aardal
+1/30/09 20:36,1200,Renee,Edinburg                    
+1/1/09 8:09,1200,Nicole,South Melbourne
+1/17/09 11:09,1200,Joachim,Fortaleza
+1/31/09 7:22,1200,Monica ,Weston                      
+1/31/09 9:12,1200,Nanci,Reading
+1/31/09 8:56,1200,Laura,Coconut Grove               
+1/31/09 9:00,1200,ciara and mike,London
+1/11/09 14:07,1200,Sarah,San Francisco               
+1/1/09 12:25,3600,Anne-line,Zug
+1/31/09 11:14,3600,Ulrika,Scottsdale                  
+1/2/09 9:57,1200,leigh,Potomac Falls               
+1/4/09 13:20,1200,Nuria,Superior                    
+1/22/09 12:32,1200,Tejal,London
+1/18/09 6:09,1200,Ignacio,Engleside                   
+1/8/09 0:04,1200,ZOE,New Plymouth City
+1/24/09 7:14,1200,nihan,Roanoke                     
+1/24/09 11:05,1200,alan,Norcross                    
+1/6/09 15:12,1200,lydia,Sandy Plains                
+1/24/09 17:06,1200,Tracey,Saint Catharines
+1/3/09 9:58,1200,Anja,Gainesville                 
+1/9/09 16:35,1200,Jennifer,Nordstrand
+1/12/09 14:50,1200,Holly,Arlington                   
+1/7/09 13:49,1200,megan,West Hills                  
+1/9/09 19:41,1200,Tarah,San Jose                    
+1/26/09 4:53,1200,Gerardo,London
+1/23/09 21:41,1200,Joanne,Oak Park                    
+1/6/09 16:07,1200,Margaret,Terrell Hills               
+1/10/09 7:55,1200,Laura,Jumeira
+1/28/09 20:44,1200,Whitney,Falmouth                    
+1/9/09 3:38,1200,Ravinder,Lurgan
+1/19/09 8:52,1200,Pam,Richmond                    
+1/15/09 7:26,1200,Celina,Den Haag
+1/30/09 19:12,1200,Heather,Ooltewah                    
+1/5/09 12:41,1200,Kathryn,Pacific Beach               
+1/28/09 20:59,1200,Michele ,Austin                      
+1/10/09 21:36,1200,Craig,Seattle                     
+1/25/09 19:59,1200,Kim,Seattle                     
+1/7/09 8:03,1200,maria,Ottawa
+1/21/09 9:07,1200,Elaine,Vienna                      
+1/23/09 14:43,1200,Madison,Torbay
+1/5/09 13:07,1200,Amanda,Shenfield
+1/6/09 3:39,1200,Krista,Bergen
+1/15/09 15:26,1200,Sarah,Bolton
+1/23/09 4:47,1200,Sarah,Sandymount
+1/12/09 10:05,3600,Pamela,Bellinzona
+1/30/09 5:13,1200,Christine,Antwerpen
+1/14/09 10:32,7500,Diana,Campinas
+1/12/09 8:13,1200,mary,Nacka
+1/27/09 8:11,1200,Helena,Fremont                     
+1/30/09 17:33,1200,nina,Warwick
+1/15/09 9:52,1200,Mark,Holmdel                     
+1/13/09 11:54,1200,alice and rudolf,Baltimore                   
+1/21/09 11:00,1200,Costanza,Saggart
+1/16/09 11:49,1200,Yoko,Andover                     
+1/1/09 9:35,1200,Barbara,La Crescenta                
+1/13/09 5:58,1200,Kit,Suwanee                     
+1/6/09 16:08,3600,cristina,Seattle                     
+1/5/09 10:25,1200,linda,Arlington                   
+1/4/09 21:08,1200,Christyna,Calgary
+1/12/09 20:43,1200,Alicja ,Kenmore                     
+1/17/09 3:22,1200,Rachel,Fresno                      
+1/18/09 11:17,1200,Rachel,Atascadero                  
+1/27/09 9:01,1200,Jan,Barcelona
+1/8/09 8:11,1200,Karin,High Wycombe
+1/26/09 23:28,3600,ron ,Tsaritsyno
+1/10/09 21:35,1200,Sharon,Ajax
+1/11/09 6:01,1200,Anna,New York                    
+1/19/09 14:53,1200,Laura,Fairfield                   
+1/22/09 7:14,1200,Yana,North Bay
+1/15/09 8:12,1200,Katherine,Marietta                    
+1/7/09 6:33,1200,Therese,Clontarf
+1/12/09 8:05,1200,Francoise ,Danville                    
+1/28/09 13:03,3600,Elizabeth,Okotoks
+1/25/09 8:54,1200,Corinne,Anthem                      
+1/5/09 10:08,1200,Ec,Clonmel
+1/5/09 19:29,1200,Carmen,Arlington                   
+1/7/09 19:06,3600,Brittany,Orlando                     
+1/23/09 11:33,1200,Sandrine,Walnut Creek                
+1/3/09 21:11,1200,asuncion ,Centennial                  
+1/11/09 17:28,1200,Sophie,Newtown                     
+1/21/09 20:18,1200,Henrietta,Vancouver
+1/24/09 10:23,1200,DD,York
+1/7/09 14:55,1200,Jennifer,Drogheda
+1/29/09 10:38,1200,samuel,Saddle Brook                
+1/8/09 14:04,1200,Angelina  Patrick,San Diego                   
+1/31/09 21:50,1200,Sven,Issaquah                    
+1/1/09 16:00,1200,Toni,Bolton
+1/30/09 13:13,1200,Patrick,Lexington                   
+1/27/09 16:50,1200,jason,Altadena                    
+1/30/09 7:42,250,Tabatha,Altadena                    
+1/17/09 15:48,3600,Aline,Davis                       
+1/12/09 11:40,3600,Debra,Toronto
+1/30/09 20:27,1200,Natasha,Pasadena                    
+1/27/09 18:35,1200,Melinda,Buffalo Grove               
+1/16/09 12:47,1200,Luc1nda,London
+1/2/09 2:50,1200,Kim,Newcastle
+1/21/09 5:39,1200,Britlyn ,Norwalk                     
+1/28/09 1:28,1200,Adam,Besancon
+1/8/09 13:33,1200,Mimi,Monte-Carlo
+1/22/09 12:09,1200,Liann,Monaco
+1/20/09 8:23,1200,Sarah,Floyds Knobs                
+1/2/09 7:47,1200,Naseer,London
+1/11/09 4:55,1200,Caroline,Marietta                    
+1/23/09 7:47,1800,Karena,Marietta                    
+1/21/09 23:19,1200,janet,Hon                         
+1/11/09 4:29,7500,Hans,Knoxville                   
+1/11/09 4:39,1200,Sandra  Thierry  Zoe,Knoxville                   
+1/10/09 8:13,1200,Eleanor,Edinburgh
+1/22/09 12:55,1200,Anna,Paris
+1/17/09 15:00,1200,Cara ,Humble                      
+1/4/09 14:06,1200,carolien,Mashpee                     
+1/30/09 17:09,1200,Ana,Hong Kong
+1/20/09 5:01,1200,Patrick,Birmingham                  
+1/26/09 14:37,1200,Heidi,St Augustine                
+1/29/09 13:27,1200,Tom,Salt Lake City              
+1/12/09 10:33,1200,Justine,Seattle                     
+1/5/09 8:28,1200,isabel,Ruti
+1/25/09 16:11,7500,scott,Rogers                      
+1/25/09 20:44,1200,Fatima,Rogers                      
+1/26/09 11:36,1200,Judy,Dun Laoghaire
+1/27/09 2:32,1200,Glenn,Perth
+1/18/09 13:36,1200,Family in,London
+1/7/09 5:53,1200,Lauren,Gries
+1/25/09 1:53,7500,Michael,Pietermaritzburg
+1/18/09 11:42,1200,Jodi,Sutton Valence
+1/13/09 1:46,1200,simone,Lyngby
+1/2/09 15:57,1200,Sonja,Alpine                      
+1/25/09 8:50,1200,Shane,Zurich
+1/14/09 8:16,3600,Ruth,Saskatoon
+1/27/09 11:21,1200,Cleo,Pacific Palisades           
+1/8/09 10:13,1200,Benoit,Fort Saint James
+1/5/09 7:47,1200,Claire,Versoix
+1/22/09 9:00,1200,Claire,Trumansburg                 
+1/25/09 12:59,1200,Lindsey,Kennett Square              
+1/10/09 19:28,3600,Nicola,San Jose                    
+1/8/09 19:29,3600,PATRICK,Ban Khlong Sip
+1/8/09 12:04,1200,jennifer,Morro Bay                   
+1/4/09 16:59,1200,Amy,Parramatta
+1/30/09 11:56,1200,Whitney,Dumbleton
+1/6/09 5:10,1200,Astrid,Altlengbach
+1/14/09 3:39,1200,jo,Ballincollig
+1/14/09 3:47,1200,Michelle,Ballincollig
+1/19/09 3:19,1200,TG,Zagore
+1/7/09 1:42,1200,Emily,Vecmilgravis
+1/7/09 13:01,3600,Niki,Trelex
+1/27/09 2:35,1200,Sarah,Ornex
+1/3/09 14:14,1200,sherry,Las Vegas                   
+1/22/09 12:37,3600,Laura,San Anselmo                 
+1/29/09 6:49,1200,Carmela,Hannover
+1/6/09 9:45,1200,Matt,N Woodmere                  
+1/12/09 11:16,1200,Karen,Madrid
+1/13/09 13:49,1200,Joanne,Castlebar
+1/12/09 7:23,1200,Stephanie,Fairfax                     
+1/30/09 4:48,1200,Hurst,Chandler                    
+1/22/09 16:29,1200,Liza,Dammeron Valley             
+1/27/09 6:26,1200,Michele,Buffalo                     
+1/15/09 10:16,7500,Karin,Olive Branch                
+1/19/09 18:54,1200,cath,Warwick                     
+1/2/09 22:44,3600,eva,Gisborne
+1/1/09 18:32,1200,Andrea ,San Mateo                   
+1/14/09 1:28,1200,Sabine,Milton Keynes
+1/20/09 8:08,1200,Aideen and Jonathan,Kecskemet
+1/29/09 2:48,1200,George,Nakskov
+1/24/09 18:02,1200,Helen,Aloma                       
+1/7/09 8:26,1200,C,Chandler                    
+1/24/09 3:36,1200,chris,Kjobenhavn
+1/5/09 15:23,1200,maggie,Stockton
+1/25/09 16:17,1200,Mareike,Cumming                     
+1/15/09 10:37,1200,lamia,Little Compton              
+1/20/09 15:28,1200,Madhu,Centennial                  
+1/28/09 18:00,13000,sandhya,Centennial                  
+1/29/09 5:06,1200,Kimberly,Herndon                     
+1/6/09 18:53,1200,Tania,Vista                       
+1/21/09 6:55,1200,andrea,Oostburg                    
+1/26/09 20:18,1200,John,Griffith
+1/25/09 17:58,3600,carol,Ann Arbor                   
+1/9/09 14:37,1200,Nona,South Jordan                
+1/25/09 2:46,3600,Family,Dubai
+1/17/09 20:46,3600,Michelle,Dubai
+1/24/09 7:18,3600,Kathryn,Kirriemuir
+1/11/09 7:09,1200,Oswald,Tramore
+1/8/09 4:15,1200,Elyssa,Gdansk
+1/22/09 10:47,1200,michelle,Arklow
+1/26/09 20:47,1200,Alicia,Lincoln                     
+1/12/09 12:22,1200,JP,Tierp
+1/26/09 1:44,3600,Geraldine,Brussels
+1/18/09 12:57,1200,sandra,Burr Oak                    
+1/24/09 21:26,1200,Olivia,Wheaton                     
+1/26/09 12:26,3600,Tom,Killeen                     
+1/5/09 7:37,1200,Annette ,Manhattan                   
+1/14/09 12:33,1200,SUSAN,Oxford
+1/14/09 0:15,3600,Michael,Paris
+1/1/09 12:42,1200,ashton,Exeter
+1/6/09 6:07,1200,Scott,Rungsted
+1/15/09 5:11,3600,Pam,London
+1/17/09 4:03,1200,Lisa ,Borja
+1/19/09 10:13,3600,Pavel,London
+1/18/09 9:42,1200,Richard,Jamestown                   
+1/9/09 11:14,1200,Jasinta Jeanne,Owings Mills                
+1/10/09 13:42,1200,Rachel,Hamilton
+1/7/09 7:28,1200,Cherish ,Anchorage                   
+1/18/09 6:46,1200,Shona ,Mornington
+1/30/09 12:18,1200,Abikay,Fullerton                   
+1/6/09 5:42,1200,Abikay,Atlanta                     
+1/2/09 10:58,3600,Kendra,Toronto
+1/8/09 3:29,1200,amanda,Liverpool
+1/12/09 13:23,3600,Leila,Ponte San Nicolo
+1/19/09 9:34,1200,amanda,Las Vegas                   
+1/9/09 7:49,1200,Stacy,Rochester Hills             
+1/15/09 5:27,3600,Derrick,North Bay
+1/8/09 23:40,1200,Jacob,Lindfield
+1/27/09 11:02,1200,DOREEN,Madrid
+1/14/09 13:23,1200,eugenia,Wisconsin Rapids            
+1/7/09 20:01,1200,Karen,Austin                      
+1/20/09 12:32,1200,Bea,Chicago                     
+1/6/09 14:35,1200,Hilde Karin,Las Vegas                   
+1/4/09 6:51,1200,Rima,Mullingar
+1/24/09 18:30,1200,Ruangrote,Melbourne
+1/25/09 5:57,1200,pamela,Ayacucho
+1/5/09 10:02,3600,Emillie,Eagan                       
+1/13/09 9:14,1200,sangeeta,Vossevangen
+1/22/09 7:35,1200,Anja,Ferney-Voltaire
+1/2/09 11:06,1200,Andrew,Sevilla
+1/11/09 9:50,1200,Bato,Munchengosserstadt
+1/21/09 20:44,1200,Ailsa ,Lindenhurst                 
+1/5/09 9:09,1200,Sophie,Bloomfield                  
+1/5/09 12:41,1200,Katrin,Calgary
+1/28/09 12:54,3600,Kelly ,Vancouver
+1/21/09 4:46,1200,Tomasz,Klampenborg
+1/7/09 13:28,1200,Elizabeth,Calne
+1/27/09 11:18,3600,Michael,Los Angeles                 
+1/7/09 12:39,3600,Natasha,Milano
+1/24/09 13:54,3600,Meredith,Kloten
+1/30/09 6:48,1200,Nicole,Fayetteville                
+1/22/09 18:07,1200,Ryan,Simpsonville                
+1/29/09 15:03,1200,Mary ,Auckland
+1/2/09 14:14,1200,Aaron,Reading
+1/19/09 11:05,1200,Bertrand,North Caldwell              
+1/28/09 16:17,1200,Zoe,Coventry
+1/8/09 12:46,1200,Trine Marie,Orillia
+1/29/09 16:07,1200,Kim,Paris
+1/29/09 13:41,1200,John ,San Jose                    
+1/8/09 6:29,1200,Rich,Ingelheim-Mitte
+1/4/09 12:53,1200,Kayla,Leamington Spa
+1/14/09 12:55,1200,Richard and Comfort,Regensdorf
+1/14/09 6:35,1200,Eric,Melbourne
+1/27/09 13:08,1200,Melissa,Geneve
+1/31/09 23:09,1200,Dawn,Vaucluse
+1/21/09 14:34,1200,Tamara,Klosterneuburg
+1/16/09 8:28,1200,Ashley,Rancho Cordova              
+1/11/09 9:55,1200,familly ,Creemore
+1/8/09 2:46,1200,Ken,Sidcup
+1/26/09 7:11,1200,Tori,Minneapolis                 
+1/31/09 5:39,3600,Hanne,Phoenix                     
+1/9/09 8:35,1200,Precious,Edmonton
+1/24/09 3:25,1200,Michelle,Lyndoch
+1/26/09 8:45,1200,Paula,Larchmont                   
+1/23/09 10:45,1200,Stephanie,Saint Charles               
+1/28/09 8:50,1200,kemp,Brentwood                   
+1/15/09 19:10,3600,Therese,Pensacola                   
+1/9/09 20:25,1200,Mona,Kelowna
+1/15/09 21:53,1200,Caroline,Toronto
+1/12/09 0:17,1200,Andrea,Brondby Strand
+1/25/09 10:32,1200,Pilar,Florence
+1/12/09 23:35,1200,Lisa,Perth
+1/11/09 6:09,1200,A,Saint Petersburg            
+1/3/09 13:35,1200,Yvette,Aubonne
+1/18/09 11:03,3600,Katie,Gava
+1/5/09 18:55,1200,Nicole,Mc Lean                     
+1/2/09 18:54,1200,Kelly,Hendersonville              
+1/13/09 14:44,3600,george,Zurich
+1/4/09 4:05,1200,Samantha,Watford
+1/27/09 12:47,1200,Caterina,Amsterdam
+1/22/09 6:51,1200,Kate,Rochester Hills             
+1/1/09 21:40,1200,Tina,Anglesea
+1/27/09 18:06,1200,Emily,Killarney
+1/10/09 14:59,1200,Maricel,Malibu                      
+1/26/09 15:42,1200,Patricia,Allen                       
+1/12/09 14:37,1200,steve,Evires
+1/16/09 7:58,1200,Darrah,Den Haag
+1/22/09 14:32,1200,Sara,Perth City
+1/19/09 6:50,1200,Erika,Redruth
+1/24/09 11:54,1200,Audrey,Bruxelles
+1/13/09 13:36,1200,Louise,London
+1/13/09 11:56,1200,Karen,Montreal
+1/19/09 7:49,1200,Maki,Miami Beach                 
+1/10/09 7:37,1200,Peter,Shankill
+1/20/09 5:53,1200,Ashlee,Oxford
+1/6/09 10:34,1200,Anja,New York                    
+1/23/09 5:14,1200,Ellen Walton ,Melbourne
+1/14/09 16:02,1200,Jessica,Woodland Hills              
+1/14/09 18:05,1200,Wouter and Andrea,Anchorage                   
+1/8/09 20:52,1200,Pam and Rob,Yorba Linda                 
+1/7/09 13:57,1200,Elsa,Waiwera
+1/25/09 10:34,1200,kathleen kane,Jamaica Plain               
+1/28/09 4:35,1200,Selene,Oslo
+1/19/09 3:25,1200,Christy,Setagaya
+1/18/09 0:41,3600,Hanna Agla,Donauworth
+1/27/09 2:38,1200,Elyse,Bandon
+1/16/09 6:04,1200,Alexis,Ehingen an der Donau
+1/5/09 5:30,1200,M George,Paris
+1/9/09 14:55,1200,John,Banbury
+1/29/09 10:07,1200,cheryl,Beverly Hills               
+1/27/09 3:55,1200,R,Danderyd
+1/25/09 12:35,3600,Charlene ,Sebastopol                  
+1/3/09 16:56,1200,Cindy,Glendora                    
+1/12/09 12:04,1200,Ed,Nacka
+1/27/09 3:19,1200,Astrid,Canterbury
+1/24/09 9:30,1200,Nicole,Neuchatel
+1/25/09 18:33,1200,Maria Macarena,Billings                    
+1/15/09 11:43,1200,Maggie,Libertyville                
+1/23/09 16:30,3600,Christophe,Temecula                    
+1/5/09 12:57,1200,Manoj,Boise                       
+1/29/09 16:52,1200,Brenda,Rock Hill                   
+1/10/09 0:04,1200,Lizelle ,Mililani                    
+1/3/09 14:17,3600,Kees en Valesca,Scamander
+1/15/09 9:00,1200,Cormac,Freeport City
+1/24/09 20:58,1200,jacqueline,North Vancouver
+1/10/09 11:53,1200,Martin,Ludwigsburg
+1/4/09 17:34,1200,Dean,Rockingham
+1/28/09 0:22,1200,VERBENA,Basel
+1/17/09 1:49,1200,Angel Marie,Den Haag
+1/25/09 17:48,1200,olla,Westminster                 
+1/22/09 5:39,3600,Eman,Penclawdd
+1/19/09 15:40,3600,Julia,Ede
+1/21/09 23:52,1200,Sarah,Plan-les-Ouattes
+1/19/09 13:15,1200,Esther,Stocksund
+1/16/09 7:35,1200,amy,Stuttgart
+1/22/09 9:48,3600,Jyoti,Tunbridge Wells
+1/18/09 12:05,3600,Keri,Issaquah                    
+1/4/09 10:44,1200,Paul,Burnaby
+1/20/09 14:55,1200,Attie,Cypress                     
+1/2/09 18:41,1200,odile,Lititz                      
+1/2/09 7:03,1200,gail ,London
+1/21/09 7:19,1200,Niki,Chadds Ford                 
+1/11/09 17:52,3600,Danny,St Thomas                   
+1/16/09 17:56,1200,Sarah,Coppell                     
+1/9/09 20:00,1200,Beckie ,Ladera Ranch                
+1/13/09 2:47,1200,Maryse,Rathfarnham
+1/19/09 4:23,3600,don,Cagliari
+1/13/09 12:51,1200,Majken,Charlottenlund
+1/29/09 7:40,1200,Karen and Andrew,Munchen
+1/21/09 4:34,1200,Katerina,Firenze
+1/7/09 13:28,1200,Mary,Baile Atha Bui
+1/26/09 16:47,1200,Oscar,Chamonix-Mont-Blanc
+1/29/09 1:01,1200,Suejean,Gingins
+1/25/09 12:55,1200,ann,Boca Raton                  
+1/24/09 13:35,1200,Renee,Chaska                      
+1/28/09 13:30,1200,Catherine,Hghlnds Ranch               
+1/20/09 19:08,1200,Rhonda,Atlanta                     
+1/29/09 17:13,1200,alix,Tenafly                     
+1/2/09 5:33,1200,Mike,Aberdeen
+1/31/09 11:03,1200,Diane,Djurgarden
+1/13/09 9:16,1200,Sigrun,Nashville                   
+1/19/09 12:38,1200,Dania,Munich
+1/18/09 12:14,3600,Kelsi,Utrecht
+1/22/09 10:59,1200,Maria,Boyceville                  
+1/14/09 7:30,1200,Bent Erik,Basauri
+1/19/09 1:52,1200,Kirsten,Melbourne
+1/8/09 23:00,1200,Dickson,Kemerburgaz
+1/25/09 7:29,1200,Howard,Worcester
+1/17/09 15:19,1200,Dana,Thurles
+1/23/09 12:23,1200,Nola,Den Haag
+1/24/09 8:45,1200,Elizabeth,Cos Cob                     
+1/27/09 3:45,3600,minjeong,Bern
+1/29/09 23:48,1200,Matt,Leicester
+1/3/09 18:43,1200,Vanessa,Cornwall
+1/24/09 17:18,3600,Charlotte,Sterling                    
+1/2/09 15:13,1200,Rowena,Cork
+1/8/09 10:44,1200,Catherine,Mount Forest
+1/29/09 8:13,1200,Sarah,Ridgefield                  
+1/24/09 10:26,1200,sorcha,Porto Alegre
+1/24/09 12:56,1200,sorcha,Cartierville
+1/7/09 13:38,1200,Mary,Stuttgart
+1/23/09 15:38,1200,Ronja,Manhattan                   
+1/26/09 14:43,1200,Nicola ,Sneem
+1/17/09 20:33,1200,BURCAK,Alpharetta                  
+1/5/09 9:15,1200,isabelle,Sainte-Therese-de-Blainville
+1/20/09 8:16,1200,christy,Germantown                  
+1/29/09 12:46,1200,Lilly,Castleknock
+1/15/09 18:12,1200,Mandy,Hono                        
+1/23/09 13:55,1200,Elena,New Rochelle                
+1/26/09 10:26,1200,Lolarae,Calgary
+1/12/09 11:48,1200,Lisa,South Waterford             
+1/29/09 15:20,1200,Nita and Trebor,Washington Township         
+1/28/09 7:26,1200,Jenevieve,Guelph
+1/14/09 0:03,3600,Piret,Bunbury
+1/13/09 1:55,1200,Damian,Mettlach
+1/12/09 23:21,1200,Lusell,Oberwil
+1/22/09 2:16,1200,Costanza,Beykoz
+1/29/09 12:53,1200,Vanessa,Arc-et-Senans
+1/28/09 11:36,1200,Evelyn,Grossbodungen
+1/19/09 6:50,1200,Nicola,Bruxelles
+1/30/09 5:20,1200,Simone,Kilcornan
+1/19/09 14:06,1200,Elisabeth,Wilmington                  
+1/8/09 9:43,1200,Kasey,Aix-en-Provence
+1/23/09 9:09,3600,Olympe,Lidingo
+1/20/09 8:58,1200,James,Edmonton
+1/2/09 13:35,1200,Alyssa,Antibes
+1/9/09 15:03,1200,Reto,Seattle                     
+1/23/09 7:04,1200,Joelle,Rowayton                    
+1/17/09 10:14,1200,Nicole,Simcoe
+1/19/09 16:16,1200,Alexandria,Lebanon                     
+1/20/09 13:54,1200,Elisabeth,Birkdale
+1/23/09 21:35,1200,Ann,Brisbane
+1/21/09 23:41,1200,Olga,Strasbourg
+1/21/09 4:11,1200,Courtney,Suchdol
+1/10/09 3:43,1200,stacy,Stuttgart
+1/15/09 18:08,3600,Monica,Villanova                   
+1/20/09 14:48,3600,Michael,Norrkoping
+1/21/09 11:56,1200,Katrin,Zumikon
+1/30/09 6:18,3600,Louise,Balgach
+1/12/09 17:28,1200,Alfredo A,Las Vegas                   
+1/29/09 8:27,3600,Kerry,Prague
+1/24/09 12:43,1200,Saeko ,Warwick                     
+1/7/09 10:49,3600,VIOLETA,Silver Spring               
+1/11/09 17:06,1200,Antje,Sacramento                  
+1/30/09 6:17,1200,janet,Blarney
+1/7/09 10:52,1200,claire ,Ballyneety
+1/27/09 6:20,1200,Nathalie,Haymarket                   
+1/21/09 20:02,1200,Daria,George Town
+1/4/09 16:23,1200,Judith L.,Scottsdale                  
+1/6/09 12:26,1200,Audinet,Cambridge                   
+1/11/09 4:34,1200,William,Chalfont Saint Peter
+1/17/09 6:39,1200,Tatjana and Martin,Birmingham
+1/4/09 3:41,1200,Scott,Den Haag
+1/12/09 5:50,7500,Brona,Den Haag
+1/3/09 13:43,1200,Andree,Newmarket
+1/11/09 6:51,1200,Aziz,Irpin'
+1/17/09 6:23,1200,Fernando,Grosseto
+1/26/09 18:38,1200,Jo,Pembroke Pines              
+1/31/09 13:26,1200,Joern,Waterford
+1/21/09 2:20,3600,Melissa,Carouge
+1/18/09 13:25,1200,Melissa,Chester                     
+1/18/09 18:57,1200,isabela,Reston                      
+1/31/09 1:59,1200,Nacole,Milan
+1/25/09 16:08,1200,Jennifer,Vancouver
+1/16/09 19:13,1200,Mary,Alpharetta                  
+1/31/09 15:25,1200,Lisa,Ringgold                    
+1/9/09 8:57,1200,Debora ,Wall                        
+1/4/09 22:18,3600,Karoline ,Powell River
+1/10/09 15:18,3600,Jo ,Huntington Beach            
+1/16/09 19:47,1200,Kristen,Los Gatos                   
+1/25/09 8:16,3600,Astrid,Oslo
+1/25/09 8:48,1200,Malinda,Oxford
+1/17/09 9:12,1200,Sylvia,Alexandria                  
+1/24/09 1:22,1200,Jupiterlina Elika,Rome
+1/27/09 15:09,1200,Aniko,Random Lake                 
+1/25/09 21:49,1200,Petra,San Francisco               
+1/24/09 8:51,1200,Heather,Baluan
+1/6/09 14:08,1200,Kim,Brussels
+1/17/09 14:06,1200,Ruby,Bedford Corners             
+1/21/09 12:38,1200,Novy ,Istanbul
+1/30/09 23:49,3600,Stephanie,Hilversum
+1/12/09 12:00,1200,Tammy,Milford                     
+1/29/09 21:40,1200,Alessandra,Vancouver
+1/24/09 13:38,1200,Cathy,Kidderminster
+1/25/09 13:50,3600,Scott,Lausanne
+1/12/09 13:41,1200,dia,Claygate
+1/5/09 11:44,1200,Lauren,Laasby
+1/2/09 8:31,1200,Line,Budaors
+1/31/09 7:13,1200,Sean,London
+1/20/09 2:17,1200,Sarah,Santo Domingo City
+1/25/09 20:15,1200,Brian,Croton On Hudson            
+1/25/09 19:44,1200,Lesa,Vespasiano
+1/30/09 9:00,1200,james,Nashville                   
+1/7/09 19:18,1200,loudon,Ottawa
+1/4/09 10:18,1200,Allison,Naples                      
+1/23/09 14:57,1200,Surat,Bridgewater                 
+1/12/09 10:08,3600,Judy,Washington                  
+1/19/09 4:22,1200,brian,Hagen
+1/21/09 21:37,1200,Rachel,Taicheng
+1/25/09 4:34,1200,Hilde,Groningen
+1/30/09 1:09,1200,Tarja,Villars
+1/26/09 15:16,1200,Megan,Huntersville                
+1/15/09 15:56,3600,Charmain,Cartersburg                 
+1/2/09 20:47,1200,Katharina,Flower Mound                
+1/25/09 9:36,1200,Zaneta ,Rochester                   
+1/20/09 20:09,1200,Jeannette,Dubai
+1/8/09 11:14,3600,Liz,Langnau
+1/6/09 20:39,3600,Christiane,Mission
+1/6/09 18:10,1200,Cherie,Columbus                    
+1/11/09 6:46,3600,Shiree,Clondalkin
+1/19/09 14:26,1200,Tracey,Harold's Cross
+1/31/09 6:14,1200,Scott ,Sag Harbor                  
+1/6/09 9:31,1200,Frances,San Diego                   
+1/21/09 7:31,1200,Beatrice,Wilmington                  
+1/20/09 17:23,3600,Jessica,Toronto
+1/29/09 12:10,1200,Alison,Issaquah                    
+1/24/09 23:21,1200,elaine,Phuket
+1/28/09 10:37,1200,Chevonne,Athina
+1/30/09 14:36,1200,danielle,Geneve
+1/21/09 2:07,1200,Caroline and Jonathan,Chichester
+1/26/09 6:37,1200,manuela,Massagno
+1/4/09 14:27,1200,Carole,Cardiff
+1/9/09 3:03,3600,Ghislaine,Ferney-Voltaire
+1/8/09 19:26,3600,Christian,Mableton                    
+1/10/09 16:02,1200,Hollie,San Diego                   
+1/6/09 6:31,1200,mike,La Louviere
+1/23/09 13:13,1200,Malahat,Minneapolis                 
+1/18/09 17:55,1200,Michaela,Mafra
+1/5/09 15:15,1200,Amy,Ashford
+1/2/09 10:32,1200,Brandi,Edmonton
+1/25/09 9:27,1200,erin,London
+1/5/09 6:12,1200,Tracy,Lucca
+1/6/09 2:41,1200,Polyxene,Perth
+1/27/09 14:42,3600,Jean,Arlington                   
+1/8/09 12:03,1200,Andrea,Calgary
+1/29/09 12:16,1200,Jessica,Chiefland                   
+1/19/09 10:47,1200,David,Stavenger
+1/8/09 2:49,3600,Caroline,Begnins
+1/19/09 17:40,1200,Riche Lou,Newton                      
+1/11/09 0:15,1200,Chris,Den Haag
+1/16/09 5:12,3600,Karen,Berikon
+1/19/09 6:52,1200,melanie,Santa Barbaraa
+1/26/09 1:14,1200,beatrice,Churra
+1/30/09 10:31,1200,lorna,Castle Rock                 
+1/23/09 5:52,1200,Tary,Zug
+1/7/09 9:54,1200,Julie ,Ashford
+1/1/09 16:44,1200,Julie ,Rockville                   
+1/23/09 9:27,1200,Jerome,Madrid
+1/22/09 12:56,1200,Laleh,Aasgaardstrand
+1/16/09 13:35,1200,Michael,Milano
+1/13/09 9:26,1200,Kerry,Anieres
+1/25/09 11:35,7500,Anita,Fresno                      
+1/26/09 14:02,1200,Veronique,Fresno                      
+1/7/09 13:26,1200,Sarah,Warwick
+1/15/09 11:45,1200,Simone,Watford
+1/27/09 12:02,1200,Jackie,Waterford
+1/28/09 14:09,1200,giovanna,Pruszkow
+1/23/09 7:13,1200,Elizabeth,Hamilton
+1/22/09 15:59,3600,Lisa,Ottawa
+1/16/09 10:27,1200,Maki,Montgomery                  
+1/26/09 22:45,1200,Anjan,Tokyo
+1/25/09 18:33,1200,Sarah,Manteno                     
+1/16/09 6:13,1200,Niamh,Benoni
+1/12/09 17:19,3600,elizabeth r,Winter Haven                
+1/2/09 4:21,1200,Elaine,Tranby
+1/5/09 3:03,1200,Elizabeth,Cork
+1/15/09 15:22,1200,Sara,Fort Lauderdale             
+1/26/09 5:38,3600,Tulin,Cranberry Twp               
+1/24/09 10:38,1200,Kenneth,Arlington                   
+1/2/09 7:30,1200,Fiona,Lake Ronkonkoma
+1/26/09 6:38,1200,Christian,Alexandria                  
+1/17/09 7:56,7500,Michel,Lipari
+1/17/09 7:58,7500,natalie,Lipari
+1/18/09 4:32,1200,jure,Lipari
+1/26/09 8:00,1200,Elizabeth ,Bluffton                    
+1/11/09 8:41,1200,Juliann,Winter Spgs                 
+1/21/09 10:32,1200,Julie ,Chelmsford                  
+1/29/09 12:27,1200,philippa katherine,Cabinteely
+1/13/09 13:19,3600,Anthony,Toronto
+1/31/09 18:12,1200,matthew,Cincinnati                  
+1/22/09 15:35,1200,Steven,Houston                     
+1/5/09 11:24,1200,Angie,Rodeo                       
+1/23/09 11:23,1200,Lauren,Poughkeepsie                
+1/7/09 20:55,1200,Esther,Cincinnati                  
+1/13/09 9:40,1200,Elizabeth,North Eastham               
+1/25/09 15:18,3600,marie-louise,Sitka                       
+1/30/09 20:58,3600,Tanya,Carcross
+1/31/09 4:50,1200,Detlev,Taby
+1/20/09 10:05,3600,Stephen,Calgary
+1/9/09 5:15,1200,Roza,Alcobendas
+1/13/09 7:09,3600,John,Chicago                     
+1/3/09 11:03,1200,paula,Sammamish                   
+1/17/09 20:51,1200,Kathryn,Waiau Pa
+1/5/09 7:55,1200,Isabelle,Ewa Beach                   
+1/25/09 14:40,1200,Maureen,Statesville                 
+1/25/09 17:55,1200,David,Kapaa                       
+1/3/09 12:54,1200,caterina,Burbank                     
+1/22/09 3:57,3600,Parth,Oegstgeest
+1/23/09 5:11,1200,Alexia,Blackrock
+1/25/09 11:52,3600,Gloria Gail ,WalcProduct3ee
+1/10/09 4:12,1200,Gloria Gail ,Foxrock
+1/10/09 9:32,3600,Cheryl,Hilton Head                 
+1/22/09 12:45,7500,Frank and Christelle,Valley Center               
+1/6/09 18:11,3600,Triona,Swampscott                  
+1/19/09 5:56,1200,Allison,Edinburgh
+1/25/09 10:50,1200,Phillip,San Antonio                 
+1/14/09 8:38,1200,jingyan,Bristol                     
+1/2/09 17:24,3600,clara,Perth
+1/7/09 18:15,1200,Selma,Greenville                  
+1/3/09 21:19,1200,Doug and Tina,Pls Vrds Est                
+1/4/09 5:13,1200,Lauren,Hradec Kralove
+1/4/09 9:28,1200,Jen,Maidstone
+1/2/09 4:34,1200,gladys,Saint Albans
+1/22/09 11:10,1200,Gustavo,Voluntari
+1/7/09 12:06,1200,Erica,Nadur
+1/29/09 13:25,1200,Hale,Morrison                    
+1/27/09 2:57,1200,Rosemary,Cobham
+1/7/09 13:19,1200,Darian,Izmir
+1/23/09 10:04,1200,Kevin,Hollywood                   
+1/19/09 4:55,1200,Alyssa,Brighton
+1/28/09 22:02,1200,Hale,Hawera
+1/4/09 18:57,1200,KELI,Worongary
+1/12/09 20:31,1200,Glen,Atlantida
+1/24/09 12:00,1200,T,El Escorial
+1/28/09 11:19,1200,christal,Morrison                    
+1/7/09 17:48,1200,Alex,Augusta                     
+1/23/09 12:42,3600,Anke,Avalon
+1/7/09 19:48,3600,TRICIA,Sydney
+1/26/09 11:19,1200,smith,Lahti
+1/5/09 13:23,1200,Macy,Inner City
+1/26/09 13:41,1200,Lesleigh,Baden
+1/20/09 10:42,3600,esther,Huddersfield
+1/22/09 14:25,1200,Hans-Joerg,Belfast
+1/28/09 5:36,3600,Christiane,Black River
+1/1/09 4:24,7500,Pamela,Skaneateles                 
+1/8/09 11:55,1200,julie,Haverhill
+1/12/09 21:30,1200,Julia ,Madison                     
