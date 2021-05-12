@@ -1,8 +1,6 @@
 # Spark XML processing into Hive table through Oozie scheduling (as part of the BigInsights Suite)
 
-* This document details the processing of XML files on HDFS into hive tables for further analysis. The XML files are of NMFP2 format and can be found at: 
-
-https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=*&sort=Date&formType=FormNMFP2&isAdv=true&stemming=true&numResults=10&numResults=10
+* This document details the processing of XML files on HDFS into hive tables for further analysis. The XML files are of NMFP2 format and can be found at: https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=*&sort=Date&formType=FormNMFP2&isAdv=true&stemming=true&numResults=10&numResults=10
 
 * For each filing, you can click on the CIK number, then in the new window, scroll down looking for an NMFP2 filing on the left and click on the documents button for that filing. Then click on the primary_doc.xml link which contains the data for each filing. This process will use two of these XML files found with the EDGAR filings database. The specific XML files do not matter, but for this example CIK numbers 35315 and 277751 will be used. These files are included in the package. 
 
