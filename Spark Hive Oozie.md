@@ -13,8 +13,11 @@ https://mvnrepository.com/artifact/com.databricks/spark-xml_2.11/0.4.1
 
 * Download and extract sparkxml.tar.gz
 Make a directory /sparkxml and un-tar the files in it
+
 $ mkdir /ws
+
 $ cd /ws
+
 $ tar xvzf ~/Downloads/sparkxml.tar.gz
 
 <p align="center">
@@ -22,8 +25,11 @@ $ tar xvzf ~/Downloads/sparkxml.tar.gz
  </p>
 
 * Place the HDFS.sparkxml files into new folder on HDFS /ws/HDFS.sparkxml:
+
 $ su - hdfs
+
 $ hadoop fs -mkdir /ws
+
 $ hadoop fs -put /ws/sparkxml/HDFS.sparkxml /ws/HDFS.sparkxml
 
 * Confirm presence of files in Ambari Files View
@@ -38,8 +44,11 @@ It is important to put the XML files into the oozie folder as oozie will not rec
 ### Prepare the Hive db ahead of time by creating it in shell:
 
 $ su - hive
+
 $ hive 
+
 hive> create database spark_test;
+
 hive> show databases; 			----- to confirm its presence
 
 * xml.scala 
@@ -55,7 +64,9 @@ This is a simple oozie workflow with a single action which runs sparkxml.sh.
 Contains basic environment variable definitions required for oozie workflow to run, including where the data files and scripts reside on hdfs.
 
 ### Run the oozie workflow:
+
 $ su - oozie
+
 $ oozie job --oozie http://localhost:11000/oozie -config /ws/sparkxml/job.properties -run
 
 Can track the job status by going to http://localhost:11000/oozie and hitting refresh until the job completes. 
@@ -65,11 +76,17 @@ Can track the job status by going to http://localhost:11000/oozie and hitting re
  </p>
 
 ### Confirm Hive table entry:
+
 $ su - hive
+
 $ hive
+
 hive> use spark_test;
+
 hive> show tables;
+
 hive> select * from nfmp_generalinfo_t;
+
 hive> select cik from nfmp_generalinfo_t;
 
 
