@@ -1,3 +1,3 @@
 # Proof of concepts
 
-* POC exploring configuring Hadoop security, Hive SerDe utility, and PySpark...
+* Various articles contained herein show how to bootstrap a distributed framework to do basic use cases.
