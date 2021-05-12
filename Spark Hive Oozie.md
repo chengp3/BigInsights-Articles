@@ -18,7 +18,7 @@ $ cd /ws
 $ tar xvzf ~/Downloads/sparkxml.tar.gz
 
 <p align="center">
-![un-tarring](https://github.com/chengp3/BigInsights-Articles/blob/master/images/sparkxmltar.png?raw=true)
+<img src="https://github.com/chengp3/BigInsights-Articles/blob/master/images/sparkxmltar.png?raw=true">
  </p>
 
 * Place the HDFS.sparkxml files into new folder on HDFS /ws/HDFS.sparkxml:
