@@ -28,6 +28,10 @@ $ hadoop fs -put /ws/sparkxml/HDFS.sparkxml /ws/HDFS.sparkxml
 
 * Confirm presence of files in Ambari Files View
 
+<p align="center">
+<img src="https://github.com/chengp3/BigInsights-Articles/blob/master/images/ambari.png?raw=true">
+ </p>
+
 
 It is important to put the XML files into the oozie folder as oozie will not recognize the input files unless they are together with the workflow.xml and script file (that we will define later). 
 
@@ -56,6 +60,9 @@ $ oozie job --oozie http://localhost:11000/oozie -config /ws/sparkxml/job.proper
 
 Can track the job status by going to http://localhost:11000/oozie and hitting refresh until the job completes. 
 
+<p align="center">
+<img src="https://github.com/chengp3/BigInsights-Articles/blob/master/images/oozie.png?raw=true">
+ </p>
 
 ### Confirm Hive table entry:
 $ su - hive
