@@ -4,4 +4,4 @@
 
 * PySpark Hive Hadoop: Looking at some individual distributed computing components
 * Spark Hive Oozie: Starting to combine them by running a spark job on a Hive DB with Oozie scheduling
-* Solr: Examining this document meta-data handler 
+* Solr: Examining this enterprise search engine to quickly index and search millions of wikipedia articles
