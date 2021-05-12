@@ -17,6 +17,7 @@ $ mkdir /ws
 $ cd /ws
 $ tar xvzf ~/Downloads/sparkxml.tar.gz
 
+![un-tarring](https://chengp3.github.com/BigInsights-Articles/images/sparkxmltar.png)
 
 * Place the HDFS.sparkxml files into new folder on HDFS /ws/HDFS.sparkxml:
 $ su - hdfs
